@@ -11,28 +11,28 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
+    title: Welcome to Karkara Women and Youths Development Initiative!
+    text: Kawodi
     button: Tell Me More
     buttonlink: "#services"
 
   services:
-    title: "Services"
+    title: "Area of focus"
     text: "Lorem ipsum"
     section: services
     list:
-      - title: "E-Commerce"
+      - title: "Humanitarian"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
+      - title: "Development"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+      - title: "Peace Building Interventions"
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
 
   portfolio:
-    title: "Portfolio"
+    title: "Area of expertise"
     text: "Lorem ipsum dolor sit amet consectetur."
     section: portfolio
     closebutton: "Close Project"
@@ -100,7 +100,7 @@ en: &DEFAULT_EN
     people:
       - name: "Kay Garland"
         role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/1.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -120,7 +120,17 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
       - name: "Diana Perterson"
         role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/3.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+      - name: "Diana Perterson"
+        role: "Lead Developer"
+        image: assets/img/team/4.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -290,7 +300,7 @@ es: &DEFAULT_ES
 
   contact:
     title: "Contáctenos"
-    text: "Lorem ipsum or call 123456789"
+    text: "Whatsapp or call 123456789"
     section: contacto
     name: "Nombre*"
     name-validation: "Por favor ingrese su nombre."
