@@ -13,27 +13,27 @@ en: &DEFAULT_EN
   header:
     title: Welcome to Karkara Women and Youths Development Initiative!
     text: Kawodi
-    button: Tell Me More
+    button: What we do
     buttonlink: "#services"
 
   services:
     title: "Area of focus"
-    text: "Lorem ipsum"
+    text: ""
     section: services
     list:
       - title: "Humanitarian"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        desc: "provision of basic charitable assistance through our Orphans and vulnerable children programming, human rights monitoring, documentation and reporting, IDPs welfare monitoring, documentation and reporting."
+        icon: fas fa-people-carry #find more at https://fontawesome.com/icons
       - title: "Development"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        desc: "Carrying out integrated youths/women vocational skill development, Agricultural and rural development, educational development, and the designing and improving local health services delivery system."
         icon: fas fa-laptop
       - title: "Peace Building Interventions"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+        desc: "Training and capacity building in conflict management, community emergency response, Early warning and counter violence extremism."
+        icon: fas fa-flag
 
   portfolio:
     title: "Area of expertise"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    text: ""
     section: portfolio
     closebutton: "Close Project"
 
@@ -71,7 +71,7 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    body: "We are an indigenous Non- for profit, Non-political and Non-religious organization that focuses on providing community based-based programs that provide access to child education, health care development, psychosocial support services, economic empowerment of women and youths and a crime free communities in northern Nigeria and beyond."
     section: about
 
   clients:
@@ -98,8 +98,8 @@ en: &DEFAULT_EN
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
+      - name: "Muhammad Aminu Yusuf"
+        role: "Executive Director"
         image: assets/img/team/1.jpg
         social:
           - url: https://twitter.com
@@ -108,8 +108,8 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
+      - name: "Khadija Suleiman"
+        role: "Advocacy Communication & Social Mobilization Manager"
         image: assets/img/team/2.jpg
         social:
           - url: https://twitter.com
@@ -118,8 +118,8 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
+      - name: "Adamu Yahaya Sikwati"
+        role: "Program Manager"
         image: assets/img/team/3.jpg
         social:
           - url: https://twitter.com
@@ -128,8 +128,8 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
+      - name: "Abdulkadir Ahmad Mu'azu"
+        role: "Field & Operations Manager"
         image: assets/img/team/4.jpg
         social:
           - url: https://twitter.com
@@ -138,6 +138,38 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
+      - name: "Awaiting"
+        role: "..."
+        image: assets/img/team/5.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+
+      - name: "Awaiting"
+        role: "..."
+        image: assets/img/team/6.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+      - name: "Shehu Musa Anfani"
+        role: "Partnership & Program Sustainability Manager"
+        image: assets/img/team/7.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+
 
   contact:
     title: "Contact Us"
