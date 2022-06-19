@@ -240,7 +240,7 @@ es: &DEFAULT_ES
   about:
     title: "Sobre nosotros"
     text: "nuestra historia"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    body: "We are an indigenous Non- for profit, Non-political and Non-religious organization that focuses on providing community based-based programs that provide access to child education, health care development, psychosocial support services, economic empowerment of women and youths and a crime free communities in northern Nigeria and beyond."
     section: nosotros
 
   clients:
